@@ -1,0 +1,13 @@
+{
+  "name": "rabbitmq_mensagerianode",
+  "version": "1.0.0",
+  "description": "Video-aula referência para construção API com mensageria: https://youtu.be/igaVS0S1hA4\r Video-aula referência configuração RabbitMQ via Docker: https://youtu.be/16sUcjyHeAM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
