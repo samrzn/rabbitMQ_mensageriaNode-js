@@ -2,8 +2,8 @@ Video-aula referência para construção API com mensageria: https://youtu.be/ig
 Video-aula referência configuração RabbitMQ via Docker: https://youtu.be/16sUcjyHeAM
 
 
-### Packages utilizados:
+# Packages utilizados:
 
-# npm i amqplib
-# npm i express
-# npm i body-parser
+### npm i amqplib
+### npm i express
+### npm i body-parser
